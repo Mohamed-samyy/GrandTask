@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.4.4)
+  - DropDown (2.3.13)
+  - Kingfisher (5.13.4):
+    - Kingfisher/Core (= 5.13.4)
+  - Kingfisher/Core (5.13.4)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - SDWebImage (5.12.1):
+    - SDWebImage/Core (= 5.12.1)
+  - SDWebImage/Core (5.12.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - DropDown
+  - Kingfisher (~> 5.13.0)
+  - NVActivityIndicatorView
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DropDown
+    - Kingfisher
+    - NVActivityIndicatorView
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  Kingfisher: d2279a7abece3c7f25a80cd2b7f363ca5cf3f44c
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  SDWebImage: 4dc3e42d9ec0c1028b960a33ac6b637bb432207b
+
+PODFILE CHECKSUM: a0041c9c94b2d46abc2121062368d95ddaac87ff
+
+COCOAPODS: 1.11.3
